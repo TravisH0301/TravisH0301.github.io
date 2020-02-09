@@ -7,7 +7,6 @@ tags: jupyternotebook jupyterthemes
 category: JupyterNotebook
 author: am
 published: true
-redirect_from: "/jupyterthemes/"
 language: EN
 comments: true
 ---
