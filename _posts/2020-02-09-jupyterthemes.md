@@ -5,7 +5,6 @@ menutitle: "Choose your own Jupyter Notebook themes"
 date: 2020-02-09
 tags: jupyternotebook jupyterthemes
 category: JupyterNotebook
-author: am
 published: true
 language: EN
 comments: true
