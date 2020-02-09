@@ -13,7 +13,7 @@
 remote_theme : mmistakes/minimal-mistakes
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -110,8 +110,8 @@ analytics:
 author:
   name             : "Travis Hong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science student passionate in learning data analytics and machine learning."
-  location         : "Melbourne, Australia"
+  bio              : "Data Science enthusiatic student"
+  location         : "Melbourne, AU"
   email            :
   links:
     - label: "Email"
