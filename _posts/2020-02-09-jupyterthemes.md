@@ -1,13 +1,9 @@
 ---
-
 title: "Choose your own Jupyter Notebook themes"
-menutitle: "Choose your own Jupyter Notebook themes"
 date: 2020-02-09
 tags: jupyternotebook jupyterthemes
 category: JupyterNotebook
 published: true
-language: EN
-comments: true
 ---
 
 Jupyter Notebook is a powerful tool to create a document containing codes, visualisations and markdown texts. Personally, I use Jupyter Notebook on daily basis and the white screen that comes as a default setting often causes eye strains. 
