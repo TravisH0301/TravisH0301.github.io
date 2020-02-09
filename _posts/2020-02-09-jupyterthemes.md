@@ -66,6 +66,7 @@ Check out the [github repository] for more features on customisations.
 
 ### Reference
 dunovank. (2018). <i>jupyterthemes</i>. Github. Retrieved from:<br>
-https://github.com/dunovank/jupyter-themes/blob/master/README.md
+[https://github.com/dunovank/jupyter-themes/blob/master/README.md]
 
 [github repository]: https://github.com/dunovank/jupyter-themes/blob/master/README.md
+[https://github.com/dunovank/jupyter-themes/blob/master/README.md]:https://github.com/dunovank/jupyter-themes/blob/master/README.md
