@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Choose your own Jupyter Notebook themes"
 menutitle: "Choose your own Jupyter Notebook themes"
 date: 2020-02-09
