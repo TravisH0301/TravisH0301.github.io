@@ -1,8 +1,17 @@
 ---
+layout: post
 title: "Choose your own Jupyter Notebook themes"
+menutitle: "Choose your own Jupyter Notebook themes"
 date: 2020-02-09
-categories: jupyternotebook jupyterthemes
+tags: jupyternotebook jupyterthemes
+category: JupyterNotebook
+author: am
+published: true
+redirect_from: "/jupyterthemes/"
+language: EN
+comments: true
 ---
+
 Jupyter Notebook is a powerful tool to create a document containing codes, visualisations and markdown texts. Personally, I use Jupyter Notebook on daily basis and the white screen that comes as a default setting often causes eye strains. 
 
 While finding a solution for this, I came across a library called, `jupyterthemes`. This library enables you to customise your Jupyter Notebook in themes, fonts, plotting and so on. 
