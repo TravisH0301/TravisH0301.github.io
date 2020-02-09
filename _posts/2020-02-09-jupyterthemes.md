@@ -60,7 +60,7 @@ For myself, I customise font sizes and cell width as well as theme.
 ```python
 jt -t chesterish -fs 10 -tfs 10 -ofs 10 -dfs 10 -cellw 1100
 ```
-Note that you have to restart your Jupyter Notebook to have these setting enabled.
+Note that the commands work on a terminal and you have to restart your Jupyter Notebook to have these setting enabled.
 
 Check out the [github repository] for more features on customisations. 
 
