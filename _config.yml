@@ -118,7 +118,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "travis.j.hong@gmail.com"
     - label: "Linkedin"
-      icon: "fa fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/travis-j-hong"
     - label: "Website"
       icon: "fas fa-fw fa-link"
