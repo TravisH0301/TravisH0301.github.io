@@ -2,7 +2,7 @@
 title: "Choose your own Jupyter Notebook themes"
 date: 2020-02-09
 tags: jupyternotebook jupyterthemes
-category: JupyterNotebook
+categories: JupyterNotebook
 published: true
 ---
 
