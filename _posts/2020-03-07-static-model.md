@@ -18,7 +18,7 @@ Before the data goes into the model, the input data can be checked to see if it 
 If the input data is far from the distribution, a model can produce an alert to inform about the unusual input data.
 
 ### Checking model output
-Similarly, checking can be done with the output of the model. If the output doesn't match with the usual output distribution, then an alert can be made to inform this absurdity.
+Similarly, checking can be done with the output of the model. If the output doesn't match with the usual output distribution or expectations, then an alert can be made to inform this absurdity.
 
 These measures can help a user to identify a change in the incoming data and engineer the model accordingly without impacting business with wrong model outputs.
 
