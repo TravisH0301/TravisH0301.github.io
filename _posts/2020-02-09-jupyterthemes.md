@@ -2,7 +2,7 @@
 title: "Choose your Jupyter Notebook themes"
 date: 2020-02-09
 tags: JupyterNotebook JupyterThemes
-categories: JupyterNotebook
+categories: DataScience
 published: true
 ---
 
