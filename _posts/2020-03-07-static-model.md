@@ -20,7 +20,7 @@ If the input data is far from the distribution, a model can produce an alert to 
 ### Checking model output
 Similarly, checking can be done with the output of the model. If the output doesn't match with the usual output distribution or expectations, then an alert can be made to inform this absurdity.
 
-These measures can help a user to identify a change in the incoming data and engineer the model accordingly without impacting business with wrong model outputs.
+These measures can help a user to identify a change in the incoming data and to engineer the model accordingly without impacting business with wrong model outputs.
 
 ### Reference
 [Tugrul, K. (2020). <i>Static Machine Learning Models in a Dynamic World</i>. towards data science]
