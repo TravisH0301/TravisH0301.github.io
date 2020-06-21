@@ -21,7 +21,7 @@ title                    : "Travis' Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Travis Hong"
-description              : "An amazing website."
+description              : "Travis' Blog"
 url                      : "https://travish0301.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 permalink                : /blog/:categories/:title
@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Travis Hong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science enthusiatic student"
+  bio              : "Lifelong student"
   location         : "Melbourne, AU"
   email            :
   links:
